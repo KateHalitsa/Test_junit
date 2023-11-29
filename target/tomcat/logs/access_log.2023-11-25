@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [25/Nov/2023:15:42:39 +0300] "GET /webapptest HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [25/Nov/2023:15:42:40 +0300] "GET /webapptest/ HTTP/1.1" 200 57 http-bio-8080-exec-2 737
+0:0:0:0:0:0:0:1 - - [25/Nov/2023:15:42:40 +0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [25/Nov/2023:17:18:41 +0300] "GET /webapptest/ HTTP/1.1" 200 57 http-bio-8080-exec-5 17
