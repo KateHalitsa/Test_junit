@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [30/Nov/2023:02:36:52 +0300] "GET /webapptest/My-Style-Sheet.css HTTP/1.1" 404 1009 http-bio-8080-exec-4 14
+0:0:0:0:0:0:0:1 - - [30/Nov/2023:02:46:22 +0300] "GET /webapptest/ HTTP/1.1" 200 3683 http-bio-8080-exec-6 119
+0:0:0:0:0:0:0:1 - - [30/Nov/2023:02:46:22 +0300] "GET /webapptest/My-Style-Sheet.css HTTP/1.1" 404 1009 http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [30/Nov/2023:22:06:08 +0300] "GET /Sitaris6 HTTP/1.1" 404 - http-bio-8080-exec-9 0
